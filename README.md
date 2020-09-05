@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Project69/Project1/_apis/build/status/Project69%20-%20CI?branchName=master)](https://dev.azure.com/Project69/Project1/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
